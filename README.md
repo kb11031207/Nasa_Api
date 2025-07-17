@@ -39,13 +39,8 @@ My chosen API for this project is **NASA APOD**.
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
-
-    <a href="https://www.loom.com/share/e10600eb87d745c69e4acfc23f0cfac8">
-      <p>Project: Week 6 - AND101 | Intro to Android Development | CodePath Courses - 16 July 2025 - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/e10600eb87d745c69e4acfc23f0cfac8">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e10600eb87d745c69e4acfc23f0cfac8-7be7df76f4d66698-full-play.gif">
-    </a>
+<img src='https://cdn.loom.com/sessions/thumbnails/e10600eb87d745c69e4acfc23f0cfac8-7be7df76f4d66698-full-play.gif' title='Video Demo' width='' alt='Video Demo' />
+    
 
 GIF created with **Loom**
 
