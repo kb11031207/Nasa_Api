@@ -1,6 +1,6 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Project 5 - Choose Your Own API
+# AND101 Project 6 - CYOAPI Part 2: RecyclerView Edition
 
 Submitted by: **Kesiena Berezi**
 
@@ -8,9 +8,9 @@ Time spent: **2** hours spent in total
 
 ## Summary
 
-**Nasa Api** is an android app that **fill in description (Example: "An app that displays a random character from the Game of Thrones API")**
+**Kesiena Berezi** is an android app that **fill in description (Example: "An app that displays a scrollable list of characters from the Marvel API")**
 
-If I had to describe this project in three (3) emojis, they would be: 
+If I had to describe this project in three (3) emojis, they would be: **emojis here**
 
 ## Application Features
 
@@ -19,28 +19,27 @@ If I had to describe this project in three (3) emojis, they would be:
 The following REQUIRED features are completed:
 
 - [x] Make an API call to an API of your choice using AsyncHTTPClient
-- [x] Display at least three (3) pieces of data for each API entry retrieved
-- [x] A working Button requests a new API entry and updates the data displayed
+- [x] Implement a RecyclerView to display a list of entries from the API
+- [x] Display at least three (3) pieces of data for each RecyclerView item
 
 The following STRETCH features are implemented:
 
-- [ ] Add a query to the API request
-  - The query I added is **FILL IN HERE**
-- [ ] Build a UI to allow users to add that query
+- [x] Add a UI element for the user to interact with API further
+- [ ] Show a `Toast` or `Snackbar` when an item is clicked
+- [ ] Add item dividers with `DividerItemDecoration`
 
 The following EXTRA features are implemented:
 
-
-
-## API Choice
-
-My chosen API for this project is **NASA APOD**.
+- [ ] List anything else that you added to improve the app!
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
-<img src='https://cdn.loom.com/sessions/thumbnails/e10600eb87d745c69e4acfc23f0cfac8-7be7df76f4d66698-full-play.gif' title='Video Demo' width='' alt='Video Demo' />
-    
+
+<img src='https://cdn.loom.com/sessions/thumbnails/33b8e303ec344d8dbce6666fe7fdfb7e-97ba1c7bac20c9cb-full-play.gif' title='Video Demo' width='' alt='Video Demo' />
+
+
+
 
 GIF created with **Loom**
 
