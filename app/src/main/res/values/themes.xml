@@ -1,8 +1,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.Nasa_Api" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    <style name="Base.Theme.Nasa_Api" parent="Theme.Material3.Dark.NoActionBar">
+        <!-- Space Mission Theme Colors -->
+        <item name="colorPrimary">@color/space_light_blue</item>
+        <item name="colorPrimaryVariant">@color/space_blue</item>
+        <item name="colorOnPrimary">@color/star_white</item>
+        <item name="colorSecondary">@color/mars_orange</item>
+        <item name="colorSecondaryVariant">@color/nebula_purple</item>
+        <item name="colorOnSecondary">@color/star_white</item>
+        <item name="android:colorBackground">@color/space_dark</item>
+        <item name="colorOnBackground">@color/star_white</item>
+        <item name="colorSurface">@color/space_blue</item>
+        <item name="colorOnSurface">@color/star_white</item>
+        <item name="android:statusBarColor">@color/space_dark</item>
+        <item name="android:navigationBarColor">@color/space_dark</item>
     </style>
 
     <style name="Theme.Nasa_Api" parent="Base.Theme.Nasa_Api" />

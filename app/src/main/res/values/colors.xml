@@ -2,4 +2,13 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    
+    <!-- Space Theme Colors -->
+    <color name="space_dark">#0B1426</color>          <!-- Deep space blue -->
+    <color name="space_blue">#1E3A8A</color>          <!-- NASA blue -->
+    <color name="space_light_blue">#3B82F6</color>    <!-- Bright blue -->
+    <color name="mars_orange">#FF6B35</color>          <!-- Mars/rocket orange -->
+    <color name="star_white">#F8FAFC</color>           <!-- Bright white -->
+    <color name="nebula_purple">#6366F1</color>        <!-- Purple accent -->
+    <color name="asteroid_gray">#64748B</color>        <!-- Muted gray -->
 </resources>

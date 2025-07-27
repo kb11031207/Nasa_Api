@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- NASA Space Mission Styles -->
+    
+    <!-- Mission Title Style -->
+    <style name="MissionTitleStyle">
+        <item name="android:fontFamily">@font/orbitron</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/star_white</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:letterSpacing">0.05</item>
+    </style>
+    
+    <!-- Mission Date Style -->
+    <style name="MissionDateStyle">
+        <item name="android:fontFamily">@font/orbitron</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/mars_orange</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:letterSpacing">0.1</item>
+    </style>
+    
+    <!-- Mission Description Style -->
+    <style name="MissionDescriptionStyle">
+        <item name="android:fontFamily">@font/orbitron</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/asteroid_gray</item>
+        <item name="android:lineSpacingMultiplier">1.2</item>
+        <item name="android:maxLines">3</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    
+    <!-- Command Button Style -->
+    <style name="CommandButtonStyle" parent="Widget.Material3.Button">
+        <item name="android:fontFamily">@font/orbitron</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/star_white</item>
+        <item name="android:backgroundTint">@color/mars_orange</item>
+        <item name="android:letterSpacing">0.05</item>
+        <item name="cornerRadius">8dp</item>
+        <item name="android:elevation">4dp</item>
+    </style>
+    
+    <!-- Mission Card Style -->
+    <style name="MissionCardStyle">
+        <item name="cardBackgroundColor">@color/space_blue</item>
+        <item name="cardCornerRadius">12dp</item>
+        <item name="cardElevation">6dp</item>
+        <item name="cardUseCompatPadding">true</item>
+    </style>
+    
+</resources> 
