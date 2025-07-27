@@ -24,15 +24,6 @@ The following REQUIRED features are completed:
 - [x] Modify the theme of the app in `themes.xml`
 - [x] Define and apply at least one style in **either** `themes.xml` or a new file `styles.xml`
 
-The following STRETCH features are implemented:
-
-- [ ] Update the night theme to use different versions of styles when in dark mode
-- [ ] Use different drawables when in dark mode
-
-The following EXTRA features are implemented:
-
-- [ ] List anything else that you added to improve the app!
-
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
